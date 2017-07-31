@@ -1,5 +1,3 @@
-// Skeletal program for the "Image Morpher" assignment
-// Written by:  Minglun Gong
 
 
 import java.awt.*;
